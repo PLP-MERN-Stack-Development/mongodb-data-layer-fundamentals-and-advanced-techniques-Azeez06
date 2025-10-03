@@ -1,6 +1,3 @@
-Perfect 👍 since you want it **detailed**, here’s the full **README.md** you can copy straight into your repo:
-
----
 
 # 📚 PLP Bookstore – MongoDB Assignment
 
@@ -91,9 +88,3 @@ A screenshot of my MongoDB Compass showing the `books` collection with documents
 ## 👨‍💻 Author
 
 * **Azeez Sulaiman**
-
----
-
-✅ This README is detailed enough to guide your instructor through your repo and show you understood all tasks.
-
-Do you also want me to **write the sample content of screenshot.png description** (like what fields/documents to show so you can take the right screenshot in MongoDB Compass)?
